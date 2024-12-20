@@ -4,9 +4,6 @@ Here’s a GitHub `README.md` file based on the project details extracted from y
 
 # Development of Copper Fiber-Based Composite Bipolar Plates for PEM Fuel Cells  
 
-![License](https://img.shields.io/badge/license-MIT-green)  
-![Status](https://img.shields.io/badge/status-Completed-blue)
-
 ## **Overview**
 This project focuses on the development of polymer composite bipolar plates (BPs) using copper fibers and carbon-based fillers for proton exchange membrane fuel cells (PEMFCs). The research aims to address the limitations of conventional BPs by developing a lightweight, cost-effective, and high-performance alternative.
 
@@ -61,11 +58,3 @@ This project focuses on the development of polymer composite bipolar plates (BPs
 ## **Future Scope**
 - Investigating corrosion-resistant metal-based PCCBP.
 - Utilizing specialized conductive resins for improved results.
-
-## **How to Use This Repository**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
-2. Review the included project files for data and analysis.
-
